@@ -1,4 +1,3 @@
-0-javascript_is_amazing.js
 #!/usr/bin/node
 const myObject = {
   type: 'object',

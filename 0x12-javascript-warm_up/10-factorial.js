@@ -1,4 +1,3 @@
-0-javascript_is_amazing.js
 #!/usr/bin/node
 function factorial (n) {
   if (n < 0) {
